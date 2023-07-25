@@ -51,7 +51,7 @@ li.article-item:last-child {
 }
 
 .border-item {
-    border-left: #9B9B9B solid 0.1rem;
+    border-left: #9B9B9B solid 1px;
 }
 
 article svg {
@@ -81,5 +81,16 @@ article svg {
     text-transform: capitalize;
     margin: 3rem 0 3.3rem 0;
     padding: 0 2rem;
+}
+
+.nav-button {
+    background-color: #0856A2;
+    color: #FFFFFF;
+    border: #707070 solid 1px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 1.6rem;
+    margin: 2.2rem 0 2.2rem 0;
+    padding: 0.9rem 2.25rem;
 }
 
