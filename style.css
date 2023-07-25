@@ -50,3 +50,24 @@ svg {
     margin: 0 0.5rem;
 }
 
+/* end of article style */
+
+/* navbar style */
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 9.5rem;
+    padding: 3rem 0 3.3rem 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-item {
+    font-size: 1.6rem;
+}
+
