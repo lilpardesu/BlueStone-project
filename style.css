@@ -24,7 +24,7 @@ html {
     display: flex;
     justify-content: space-between;
     background-color: #111111;
-    padding: 0 9.5rem;
+    padding: 0 8.5rem;
 }
 
 .article-list {
@@ -42,11 +42,19 @@ html {
     margin: 1.2rem 0;
 }
 
+li.article-item:first-child {
+    padding: 0 1.2rem 0 0;
+}
+
+li.article-item:last-child {
+    padding: 0 0 0 1.2rem;
+}
+
 .border-item {
     border-left: #9B9B9B solid 0.1rem;
 }
 
-svg {
+article svg {
     margin: 0 0.5rem;
 }
 
@@ -58,7 +66,7 @@ svg {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 9.5rem;
+    margin: 0 8.5rem;
     padding: 3rem 0 3.3rem 0;
 }
 
