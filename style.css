@@ -150,3 +150,40 @@ button {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+/* end navbar style */
+/* scoda styles */
+
+.scoda-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.scoda-text {
+    width: 32%;
+    background: no-repeat url(./images/BlueBg.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 10.1rem 9.5rem;
+}
+
+.scoda-text h1 {
+    font-size: 6rem;
+    font-weight: bold;
+    line-height: 7.2rem;
+}
+
+.scoda-text p {
+    font-size: 1.8rem;
+    line-height: 3.1rem;
+}
+
+.scoda-image {
+    height: 71.9rem;
+    width: 68%;
+    overflow: hidden;
+}
