@@ -169,6 +169,7 @@ button {
     align-items: center;
     color: #FFFFFF;
     padding: 10.1rem 9.5rem;
+    align-items: flex-start;
 }
 
 .scoda-text h1 {
@@ -186,4 +187,22 @@ button {
     height: 71.9rem;
     width: 68%;
     overflow: hidden;
+}
+
+.scoda-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #ffffff00;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    color: #FFFFFF;
+    border: solid 2px #ACA7D2;
+    border-radius: 5px;
+    padding:1.5rem 2.7rem 1.2rem 4.7rem;
+    margin-top: 5rem;
+}
+
+.scoda-button span {
+    padding-right: 1.5rem;
 }
