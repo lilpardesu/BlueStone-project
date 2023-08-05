@@ -155,14 +155,14 @@ button {
 /* scoda styles */
 
 .scoda-container {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: 32% 1fr;
+    grid-template-rows: 71.9rem;
 }
 
 .scoda-text {
-    width: 32%;
     background: no-repeat url(./images/BlueBg.png);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -184,9 +184,8 @@ button {
 }
 
 .scoda-image {
-    height: 71.9rem;
-    width: 68%;
     overflow: hidden;
+    object-fit: cover;
 }
 
 .scoda-button {
