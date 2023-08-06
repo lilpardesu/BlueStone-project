@@ -210,6 +210,24 @@ button {
     padding-right: 1.5rem;
 }
 
+/* end scoda styles */
+
+/* start bluestone styles */
+
 .bluestone-container {
-    font-size: 7rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bluestone-container h2 {
+    font-size: 4.1rem;
+    font-weight: bold;
+    color: #111111;
+    line-height: 5.1rem;
+}
+
+.bluestone-container p {
+    font-size: 1.7rem;
+    line-height: 2.8rem;
 }
