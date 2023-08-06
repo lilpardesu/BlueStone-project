@@ -226,9 +226,8 @@ button {
     padding-right: 12rem;
 }
 
-.bluestone-container h1 {
-    font-size: 8.2rem;
-    font-weight: bolder;
+.bluestone-container img {
+    padding-bottom: 2.7rem;
 }
 
 .bluestone-container h2 {
@@ -239,6 +238,7 @@ button {
 }
 
 .bluestone-container hr {
+    margin-bottom: 4.2rem;
     width: 9rem;
     border: 2px solid #0856A2;
     border-radius: 5px;
