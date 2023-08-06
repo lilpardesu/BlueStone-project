@@ -215,9 +215,15 @@ button {
 /* start bluestone styles */
 
 .bluestone-container {
+    font-family: 'Poppins', sans-serif;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+}
+
+.bluestone-container h1 {
+    font-size: 8.2rem;
+    font-weight: bolder;
 }
 
 .bluestone-container h2 {
