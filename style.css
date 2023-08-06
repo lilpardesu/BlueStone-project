@@ -219,6 +219,11 @@ button {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin: 9rem 18.5rem;
+}
+
+.bluestone-container div:first-child {
+    padding-right: 12rem;
 }
 
 .bluestone-container h1 {
