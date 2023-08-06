@@ -222,6 +222,12 @@ button {
     margin: 9rem 18.5rem;
 }
 
+.title-container, .p-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 .bluestone-container div:first-child {
     padding-right: 12rem;
 }
@@ -248,4 +254,21 @@ button {
     font-size: 1.7rem;
     line-height: 2.8rem;
     color: #707070;
+    margin-bottom: 2.7rem;
+}
+
+.bluestone-container a {
+    font-size: 1.7rem;
+    color: #0856A2;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 6rem;
+}
+
+.bluestone-container svg {
+    margin-left: 2.4rem;
 }
