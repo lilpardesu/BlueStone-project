@@ -238,6 +238,12 @@ button {
     line-height: 5.1rem;
 }
 
+.bluestone-container hr {
+    width: 9rem;
+    border: 2px solid #0856A2;
+    border-radius: 5px;
+}
+
 .bluestone-container p {
     font-size: 1.7rem;
     line-height: 2.8rem;
