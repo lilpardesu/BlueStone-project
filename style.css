@@ -272,3 +272,28 @@ button {
 .bluestone-container svg {
     margin-left: 2.4rem;
 }
+
+/* end bluestone section styles */
+/* start What We Do section */
+
+/* bg images */
+.Exhibitions {
+    background-image: url(./images/Exhibitions.png);
+}
+
+.Booth {
+    background-image: url(./images/Booth.png);
+}
+
+.Digital {
+    background-image: url(./images/Digital.png);
+}
+
+.Designing {
+    background-image: url(./images/Designing.png);
+}
+
+.whatwedo-container h2 {
+    width: 63rem;
+    height: 42.3rem;
+}
