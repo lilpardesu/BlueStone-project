@@ -286,6 +286,8 @@ button {
 
 .Exhibitions {
     background-image: url(./images/Exhibitions.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
 }
 
 .Booth {
