@@ -302,9 +302,14 @@ button {
     background-image: url(./images/Designing.png);
 }
 
-.whatwedo-container h2 {
+.img-container {
     width: 69rem;
     height: 42.3rem;
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
 }
 
 .whatwedo-images {
@@ -340,8 +345,5 @@ button {
     font-size: 3.2rem;
     color: #FFFFFF;
     font-weight: bold;
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-end;
-    margin: 3rem;
+
 }
