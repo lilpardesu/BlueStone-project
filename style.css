@@ -320,7 +320,6 @@ button {
 .whatwedo-text h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 4.2rem;
-    line-height: 5.6rem;
     font-weight: 100;
     color: #111111;
 }
@@ -331,4 +330,6 @@ button {
     line-height: 3rem;
     font-weight: 100;
     color: #222222;
+    padding-bottom: 4.2rem;
+    margin-top: 1.8rem;
 }
