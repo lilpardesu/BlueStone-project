@@ -333,3 +333,13 @@ button {
     padding-bottom: 4.2rem;
     margin-top: 1.8rem;
 }
+
+.whatwedo-container h2 {
+    font-size: 3.2rem;
+    color: #FFFFFF;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin: 3rem;
+}
