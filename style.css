@@ -309,3 +309,26 @@ button {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.whatwedo-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.whatwedo-text h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 4.2rem;
+    line-height: 5.6rem;
+    font-weight: 100;
+    color: #111111;
+}
+
+.whatwedo-text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.2rem;
+    line-height: 3rem;
+    font-weight: 100;
+    color: #222222;
+}
