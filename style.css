@@ -277,6 +277,13 @@ button {
 /* start What We Do section */
 
 /* bg images */
+.whatwedo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .Exhibitions {
     background-image: url(./images/Exhibitions.png);
 }
