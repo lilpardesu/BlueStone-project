@@ -353,9 +353,15 @@ button {
 }
 
 .whatwedo-container a {
-    color: #FFFFFF;
-    font-size: 1.7rem;
     display: flex;
+    flex-direction: row;
     align-items: center;
     margin:0 0 4.3rem 4.3rem;
+}
+
+.whatwedo-container span {
+    color: #FFFFFF;
+    font-size: 1.7rem;
+    padding-right: 1.7rem;
+    text-decoration: underline;
 }
