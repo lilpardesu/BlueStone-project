@@ -348,6 +348,9 @@ button {
 }
 
 .linear-bg {
+    display: flex;
+    align-items: flex-end;
+    height: 16.2rem;
     width: inherit;
     background-image: linear-gradient(0deg, rgba(0,0,0,84%), rgba(0,0,0,0%));
 }
