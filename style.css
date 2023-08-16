@@ -384,13 +384,14 @@ button {
     justify-content: space-evenly;
 }
 
-.ourwork-images::first-child, .ourwork-images::last-child {
+.side-img {
     width: 33rem;
     height: 41.3rem;
 }
 
-.ourwork-images::nth-child(2) {
+.mid-img {
     width: 69.5rem;
     height: 41.3rem;
-    object-fit: cover;
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
 }
