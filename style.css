@@ -446,3 +446,9 @@ button {
     align-items: center;
     justify-content: space-between;
 }
+
+.date-28, .date-21 {
+    background-color: #FF3D55;
+    width: 8.1rem;
+    height: 9.5rem;
+}
