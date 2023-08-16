@@ -305,7 +305,7 @@ button {
 .img-container {
     width: 69rem;
     height: 42.3rem;
-    margin: 3rem;
+    margin: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
