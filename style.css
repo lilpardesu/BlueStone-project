@@ -422,8 +422,10 @@ button {
     padding:2.4rem 0 2.3rem 3rem;
     z-index: 1;
     position: absolute;
-    top: 53.4rem;
-    left: 68.4rem;
+    /* top: 0;
+    left: 0; */
+    margin-top: 53.4rem;
+    margin-left: 23.4rem;
 }
 
 .ourwork-adress h1 {
@@ -465,14 +467,14 @@ button {
     height: 9.5rem;
     color: #FFFFFF;
     position: absolute;
-    top: 25.6rem;
+    margin-top: -37.5rem;
 }
 .date-28 {
-    left: 45.3rem;
+    margin-left: 6.6rem;
 }
 
 .date-21 {
-    left: 116.8rem;
+    margin-left: 3.5rem;
 }
 
 .date-28 span, .date-21 span {
