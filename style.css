@@ -383,6 +383,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 
 .ourwork-images {
@@ -420,6 +421,9 @@ button {
     box-shadow: 6px 6px 54px 0px rgba(0,0,0,0.3);
     padding:2.4rem 0 2.3rem 3rem;
     z-index: 1;
+    position: absolute;
+    top: 53.4rem;
+    left: 68.4rem;
 }
 
 .ourwork-adress h1 {
@@ -460,6 +464,15 @@ button {
     width: 8.1rem;
     height: 9.5rem;
     color: #FFFFFF;
+    position: absolute;
+    top: 25.6rem;
+}
+.date-28 {
+    left: 45.3rem;
+}
+
+.date-21 {
+    left: 116.8rem;
 }
 
 .date-28 span, .date-21 span {
