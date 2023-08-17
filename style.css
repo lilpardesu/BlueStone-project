@@ -394,6 +394,7 @@ button {
 .side-img {
     width: 33rem;
     height: 41.3rem;
+    z-index: 0;
 }
 
 .mid-img {
@@ -401,6 +402,7 @@ button {
     height: 41.3rem;
     margin-right: 2.5rem;
     margin-left: 2.5rem;
+    z-index: 0;
 }
 
 .ourwork-text {
@@ -417,6 +419,7 @@ button {
     align-items: flex-start;
     box-shadow: 6px 6px 54px 0px rgba(0,0,0,0.3);
     padding:2.4rem 0 2.3rem 3rem;
+    z-index: 1;
 }
 
 .ourwork-adress h1 {
