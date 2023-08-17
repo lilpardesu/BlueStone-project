@@ -449,7 +449,22 @@ button {
 }
 
 .date-28, .date-21 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #FF3D55;
     width: 8.1rem;
     height: 9.5rem;
+    color: #FFFFFF;
+}
+
+.date-28 span, .date-21 span {
+    font-size: 3.8rem;
+    font-weight: 100;
+}
+
+.date-28 p, .date-21 p {
+    font-size: 1.6rem;
+    text-transform: capitalize;
 }
