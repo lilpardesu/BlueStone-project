@@ -328,7 +328,7 @@ button {
     align-items: center;
 }
 
-.whatwedo-text h1, .ourwork-title {
+.whatwedo-text h1, .ourwork-text h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 4.2rem;
     font-weight: 100;
@@ -336,7 +336,7 @@ button {
     text-align: center;
 }
 
-.whatwedo-text p, .ourwork-p {
+.whatwedo-text p, .ourwork-text p {
     font-family: 'Poppins', sans-serif;
     font-size: 2.2rem;
     line-height: 3rem;
@@ -344,6 +344,7 @@ button {
     color: #222222;
     margin-top: 1.8rem;
     text-align: center;
+    margin-bottom: 4rem;
 }
 
 .whatwedo-container h2 {
