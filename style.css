@@ -517,3 +517,8 @@ button {
     font-size: 2.6rem;
     font-weight: 100;
 }
+
+.extra-text {
+    color: #FFFFFF;
+    font-size: 1.8rem;
+}
