@@ -522,3 +522,9 @@ button {
     color: #FFFFFF;
     font-size: 1.8rem;
 }
+
+.quote-container span {
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: 100;
+}
