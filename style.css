@@ -1,8 +1,20 @@
 @font-face {
     font-family: "Poppins-Regular";
     src: url(./fonts/Poppins-Regular/Poppins-Regular-Regular.ttf) format("ttf");
+}
+
+@font-face {
     font-family: "Poppins-SemiBold";
     src: url(./fonts/Poppins/Poppins-SemiBold.ttf);
+
+}
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(./fonts/Poppins/Poppins-Bold.ttf);
+}
+
+@font-face {
     font-family: "Poppins-LightItalic";
     src: url(./fonts/Poppins/Poppins-LightItalic.ttf);
 }
@@ -530,5 +542,4 @@ button {
 .quote-container span {
     color: #FFFFFF;
     font-size: 2rem;
-    font-weight: 100;
 }
