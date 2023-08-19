@@ -488,3 +488,32 @@ button {
 }
 
 /* end our work section styles */
+/* start quote section */
+
+.quote-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #3D348D;
+    width: 100%;
+    height: 63.8rem;
+    margin-top: 21.6rem;
+}
+
+.quote-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.quote {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.quote p {
+    color: #FFFFFF;
+    font-size: 2.6rem;
+    font-weight: 100;
+}
