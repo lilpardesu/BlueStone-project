@@ -1,6 +1,10 @@
 @font-face {
     font-family: "Poppins-Regular";
     src: url(./fonts/Poppins-Regular/Poppins-Regular-Regular.ttf) format("ttf");
+    font-family: "Poppins-SemiBold";
+    src: url(./fonts/Poppins/Poppins-SemiBold.ttf);
+    font-family: "Poppins-LightItalic";
+    src: url(./fonts/Poppins/Poppins-LightItalic.ttf);
 }
 
 *{
