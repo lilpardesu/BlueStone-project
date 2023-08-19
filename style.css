@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Poppins";
-    src: url(./fonts/Poppins/Poppins-Regular.ttf) format("ttf");
+    font-family: "Poppins-Regular";
+    src: url(./fonts/Poppins-Regular/Poppins-Regular-Regular.ttf) format("ttf");
 }
 
 *{
@@ -16,7 +16,7 @@
 
 html {
     font-size: 62.5%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins-Regular', sans-serif;
 }
 
 svg {
@@ -197,7 +197,7 @@ button {
     flex-direction: row;
     justify-content: space-between;
     background-color: #ffffff00;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins-Regular', sans-serif;
     font-size: 1.8rem;
     color: #FFFFFF;
     border: solid 2px #ACA7D2;
@@ -219,7 +219,7 @@ button {
 /* start bluestone styles */
 
 .bluestone-container {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins-Regular', sans-serif;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -329,7 +329,7 @@ button {
 }
 
 .whatwedo-text h1, .ourwork-text h1 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins-Regular', sans-serif;
     font-size: 4.2rem;
     font-weight: 100;
     color: #111111;
@@ -337,7 +337,7 @@ button {
 }
 
 .whatwedo-text p, .ourwork-text p {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins-Regular', sans-serif;
     font-size: 2.2rem;
     line-height: 3rem;
     font-weight: 100;
