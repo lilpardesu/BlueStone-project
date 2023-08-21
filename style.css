@@ -555,3 +555,9 @@ button {
 .thin-italic {
     font-family: "Poppins-LightItalic";
 }
+
+.quote-container img {
+    height: 8rem;
+    width: 8rem;
+    object-fit: cover;
+}
