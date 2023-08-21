@@ -551,3 +551,7 @@ button {
     color: #FFFFFF;
     font-size: 2rem;
 }
+
+.thin-italic {
+    font-family: "Poppins-LightItalic";
+}
