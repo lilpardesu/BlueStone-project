@@ -594,6 +594,15 @@ button {
 
 .quote-logos {
     display: grid;
+    align-items: center;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+}
+
+.blauberg, .hoymiles {
+    grid-column: 1 / 3;
+}
+
+.gaca , .ambah, .mehler {
+    justify-self: end;
 }
