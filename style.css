@@ -528,7 +528,7 @@ button {
 .quote-text {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .quote {
@@ -542,16 +542,19 @@ button {
     font-size: 2.6rem;
     font-weight: 100;
     padding-left: 3.7rem;
+    margin-bottom: 2rem;
 }
 
 .extra-text {
     color: #FFFFFF;
     font-size: 1.8rem;
     padding-left: 8.6rem;
+    margin-bottom: 7.3rem;
 }
 
 .name-role {
     padding-left: 8.6rem;
+    margin-bottom: 6.4rem;
 }
 
 .quote-imgs {
