@@ -567,6 +567,11 @@ button {
     margin-right: 1.7rem;
 }
 
+.bg-blue {
+    background-color: #004B94;
+    opacity: 58%;
+}
+
 .quote-imgs img:first-of-type {
     margin-left: 2rem;
 }
