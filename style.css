@@ -556,6 +556,8 @@ button {
 
 .quote-imgs {
     padding-left: 7rem;
+    display: flex;
+    align-items: center;
 }
 
 .quote-container span {
