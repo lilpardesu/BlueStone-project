@@ -560,6 +560,18 @@ button {
     align-items: center;
 }
 
+.quote-imgs img {
+    margin-right: 1.7rem;
+}
+
+.quote-imgs img:first-of-type {
+    margin-left: 2rem;
+}
+
+.quote-imgs img:last-of-type {
+    margin-right: 2rem;
+}
+
 .quote-container span {
     color: #FFFFFF;
     font-size: 2rem;
