@@ -591,3 +591,9 @@ button {
     border-radius: 100%;
     border: #FFFFFF 1px solid;
 }
+
+.quote-logos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
