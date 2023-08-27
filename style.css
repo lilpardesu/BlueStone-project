@@ -637,3 +637,8 @@ button {
     height: 28.1rem;
     width: 45rem;
 }
+
+.card-title {
+    display: flex;
+    flex-direction: row;
+}
