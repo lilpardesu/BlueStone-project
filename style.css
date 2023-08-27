@@ -658,4 +658,5 @@ button {
     font-family: "Poppins-Regular";
     font-size: 1.6rem;
     color: #0856A2;
+    text-transform: capitalize;
 }
