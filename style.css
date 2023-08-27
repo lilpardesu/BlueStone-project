@@ -611,3 +611,11 @@ button {
 .gaca , .ambah, .mehler {
     justify-self: end;
 }
+
+/* end quote section styles */
+/* start blog section */
+
+.blog-container {
+    display: flex;
+    flex-direction: column;
+}
