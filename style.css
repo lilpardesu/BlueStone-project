@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Poppins-Regular";
-    src: url(./fonts/Poppins-Regular/Poppins-Regular-Regular.ttf) format("ttf");
+    src: url(./fonts/Poppins/Poppins-Regular.ttf);
 }
 
 @font-face {
@@ -641,4 +641,21 @@ button {
 .card-title {
     display: flex;
     flex-direction: row;
+}
+
+.date {
+    text-align: center;
+}
+
+.date span, .date p{
+    font-family: "Poppins-Regular";
+    font-size: 3.4rem;
+    line-height: 3rem;
+    color: #0856A2;
+}
+
+.date p {
+    font-family: "Poppins-Regular";
+    font-size: 1.6rem;
+    color: #0856A2;
 }
