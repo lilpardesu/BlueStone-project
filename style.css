@@ -26,7 +26,12 @@
 
 @font-face {
     font-family: "Poppins-ThinItalic";
-    src: url("./fonts/Poppins/Poppins-ThinItalic.ttf");
+    src: url(./fonts/Poppins/Poppins-ThinItalic.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-ExtraLight";
+    src: url(./fonts/Poppins/Poppins-ExtraLight.ttf);
 }
 
 *{
