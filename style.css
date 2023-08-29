@@ -639,6 +639,8 @@ button {
     height: 60.4rem;
     width: auto;
     margin: 0 1.5rem;
+    border: solid #D8D8D8 1px;
+
 }
 
 .card img {
