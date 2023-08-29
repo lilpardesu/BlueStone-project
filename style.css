@@ -360,7 +360,7 @@ button {
 }
 
 .whatwedo-text h1, .ourwork-text h1, .blogs-title h1{
-    font-family: "Poppins-Light";
+    font-family: "Poppins-ExtraLight";
     font-size: 4.2rem;
     color: #111111;
     text-align: center;
@@ -656,7 +656,7 @@ button {
 }
 
 .date span, .date p{
-    font-family: "Poppins-Regular";
+    font-family: "Poppins-ExtraLight";
     font-size: 3.4rem;
     line-height: 3rem;
     color: #0856A2;
