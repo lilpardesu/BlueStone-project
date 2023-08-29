@@ -675,11 +675,26 @@ button {
     font-family: "Poppins-ExtraLight";
     font-size: 2.4rem;
     color: #222222;
-    margin: 3.1rem 4.4rem 0 1.8rem;
+    padding-left: 1.8rem;
+    margin: 3.1rem 4.3rem 0 0;
+    border-left: solid #D8D8D8 1px;
 }
 
 .card-text {
     font-size: 1.6rem;
     color: #707070;
-    margin: 3.2rem 4.4rem 4.3rem 2.8rem;
+    margin: 3.2rem 3.8rem 4.3rem 2.8rem;
+}
+
+.card button {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: #0856A2;
+    font-size: 1.6rem;
+    margin-left: 2.8rem;
+}
+
+.card button svg {
+    margin-left: 1.8rem;
 }
