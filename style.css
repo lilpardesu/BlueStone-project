@@ -677,3 +677,9 @@ button {
     color: #222222;
     margin: 3.1rem 4.4rem 0 1.8rem;
 }
+
+.card-text {
+    font-size: 1.6rem;
+    color: #707070;
+    margin: 3.2rem 4.4rem 4.3rem 2.8rem;
+}
