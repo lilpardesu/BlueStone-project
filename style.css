@@ -735,6 +735,12 @@ button {
     color: #707070;
 }
 
+.form-text a {
+    font-family: "Poppins-Regular";
+    color: #0856A2;
+    font-size: 1.8rem;
+}
+
 .form form label {
     grid-column: 1 / 3;
 }
