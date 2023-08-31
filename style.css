@@ -714,6 +714,27 @@ button {
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 
+.form-text h1 span:first-of-type {
+    font-family: "Poppins-ExtraLight";
+    font-size: 5.6rem;
+    line-height: 7rem;
+    color: #111111;
+}
+
+.form-text h1 span:last-of-type {
+    font-family: "Poppins-ExtraLight";
+    font-size: 6.1rem;
+    line-height: 8.1rem;
+    color: #111111;
+}
+
+.form-text p {
+    font-family: "Poppins-Regular";
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+    color: #707070;
+}
+
 .form form label {
     grid-column: 1 / 3;
 }
