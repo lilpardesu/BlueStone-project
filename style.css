@@ -706,6 +706,8 @@ button {
 .form-container {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    margin-top: 9rem;
 }
 
 .form form {
@@ -757,9 +759,6 @@ button {
     border-top: none;
     border-left: none;
     border-right: none;
-}
-
-.form input {
     width: 45rem;
     height: 7rem;
     margin: 0 1.5rem;
