@@ -736,12 +736,16 @@ button {
     font-size: 1.6rem;
     line-height: 2.1rem;
     color: #707070;
+    margin-top: 2.3rem;
+    margin-bottom: 2.2rem;
 }
 
 .form-text a {
+    display: block;
     font-family: "Poppins-Regular";
     color: #0856A2;
     font-size: 1.8rem;
+    margin: 2.5rem 0;
 }
 
 .form form label {
