@@ -782,6 +782,7 @@ form button {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     font-family: "Poppins-Regular";
     font-size: 1.8rem;
     color: #FFFFFF;
@@ -789,5 +790,5 @@ form button {
     width: 93rem;
     height: 6.5rem;
     background: #0856A2;
-    margin: 0 1.5rem;
+    margin: 3rem 0 0 1.5rem;
 }
