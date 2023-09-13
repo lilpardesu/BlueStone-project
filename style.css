@@ -792,3 +792,31 @@ form button {
     background: #0856A2;
     margin: 3rem 0 0 1.5rem;
 }
+
+/* end form styles */
+/* end body styles */
+
+/* start footer style */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    /* background-color: #111111; */
+}
+
+.footer-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+/* 
+.footer-bluestone br {
+    border: 2px #999999 solid;
+    width: 89.74;
+} */
+
+.footer-edbp {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
