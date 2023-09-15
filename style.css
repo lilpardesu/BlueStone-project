@@ -807,6 +807,8 @@ footer {
     margin-top: 9rem;
 }
 
+/* start footer-top styles */
+
 .footer-top {
     display: flex;
     flex-direction: row;
@@ -881,6 +883,9 @@ footer {
     margin-bottom: 0.2rem;
 }
 
+/* end of footer-top styles */
+/* start footer-buttom styles */
+
 .footer-buttom {
     padding-top: 3rem;
 }
@@ -936,4 +941,8 @@ footer {
     padding-left: 0 !important;
     border-left: none !important;
 }
+
+/* end of footer-button styles */
+
+/* end of footer styles */
 
