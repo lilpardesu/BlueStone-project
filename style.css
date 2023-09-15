@@ -820,3 +820,19 @@ footer {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 }
+
+.footer-copyright {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-copyright ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-terms ul {
+    display: flex;
+    flex-direction: row;
+}
